@@ -1,0 +1,2 @@
+17.04.2022 11:14:16 DEBUG: Приложение запущено
+17.04.2022 11:35:45 INFO: Подробности о Market instance 1000210: Colorado Farm and Art Market
